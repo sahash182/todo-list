@@ -1,0 +1,17 @@
+body {
+ font-size: 16px;
+}
+
+.todo:hover, .todo.done {
+ cursor: pointer;
+ text-decoration: line-through;
+}
+.todo{
+	 width: 320px;
+    height:40px;
+    font-size: 15px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0; 
+    background-color: #A9F5F2;
+}
